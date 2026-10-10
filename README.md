@@ -1,17 +1,17 @@
 # Hi there! 👋 I'm Laxmi Narayanan
 
-AI Engineer | Continuously learning, building, and solving problems.
+Engineer | Continuously learning, building, and solving problems.
 
 ---
 
 ### 📊 GitHub Stats & Languages
 
 <p align="left">
-  <!-- GitHub Overall Stats (Nord Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=laxsparkler-16&show_icons=true&theme=nord&hide_border=false" alt="GitHub Stats" height="165" />
+  <!-- GitHub Overall Stats (Catppuccin Mocha Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=laxsparkler-16&show_icons=true&theme=catppuccin_mocha&hide_border=false" alt="GitHub Stats" height="165" />
   
-  <!-- Most Used Languages (Nord Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxsparkler-16&layout=compact&theme=nord&hide_border=false" alt="Most Used Languages" height="165" />
+  <!-- Most Used Languages (Catppuccin Mocha Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxsparkler-16&layout=compact&theme=catppuccin_mocha&hide_border=false" alt="Most Used Languages" height="165" />
 </p>
 
 <br/>
@@ -33,19 +33,20 @@ AI Engineer | Continuously learning, building, and solving problems.
 <table>
   <tr>
     <td valign="top" width="55%">
+      <!-- Badges styled with matching Catppuccin pastel hex accents -->
       <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-5E81AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LINKEDIN-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn" />
       </a>
       <a href="mailto:your_email@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/GMAIL-88C0D0?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <img src="https://img.shields.io/badge/GMAIL-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E" alt="Gmail" />
       </a>
       <br/><br/>
       <a href="https://github.com/laxsparkler-16" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-4C566A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-CBA6F7?style=for-the-badge&logo=github&logoColor=1E1E2E" alt="GitHub" />
       </a>
     </td>
     <td align="right" valign="top" width="45%">
-      <!-- Aesthetic Dev GIF -->
+      <!-- Dev GIF -->
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="220" />
     </td>
   </tr>
