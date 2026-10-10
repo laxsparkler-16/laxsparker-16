@@ -1,14 +1,8 @@
-### Hi there! 👋 I'm Laxmi Narayanan
-
-AI Engineer | Continuously learning, building, and solving problems.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laxsparkler-16&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxsparkler-16&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -34,7 +28,7 @@ AI Engineer | Continuously learning, building, and solving problems.
   <a href="mailto:your_email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/laxsparkler-16" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
